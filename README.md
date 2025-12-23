@@ -1,7 +1,4 @@
-# 👋 Hello, I'm Sergey Atryakhin | Golang Backend Engineer & Computer Science Student
-
-[![Sergey's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sj-shoff&show_icons=true&theme=radical&count_private=true&include_all_commits=true)](https://github.com/sj-shoff)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sj-shoff&layout=compact&theme=radical)](https://github.com/sj-shoff)
+# Hello, I'm Sergey Atryakhin | Golang Backend Engineer & Computer Science Student
 
 ## 🚀 **About Me**
 > **"Code is poetry, and I'm the architect of scalable backend symphonies."**  
@@ -68,4 +65,4 @@
 ## 🎓 **Academic Journey**
 **Bachelor of Computer Science & Engineering**  
 *National University of Science and Technology MISIS (Moscow)*  
-`2021 - 2025`
+`2024 - 2028`
