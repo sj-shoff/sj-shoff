@@ -31,7 +31,7 @@
 
 ## 📈 **GitHub Activity**
 
-[![Sergey's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sj-shoff&theme=chartreuse-dark&hide_border=true&area=true)](https://github.com/sj-shoff)
+[![Sergey's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sj-shoff&theme=high-contrast&hide_border=true&area=true)](https://github.com/sj-shoff)
 
 ## 📈 **Leetcode Activity**
 
